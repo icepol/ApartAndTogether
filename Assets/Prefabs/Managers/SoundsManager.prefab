@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &673059888212579804
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8268392231117696801}
+  - component: {fileID: 1673790591032152034}
+  m_Layer: 0
+  m_Name: SoundsManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8268392231117696801
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 673059888212579804}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1673790591032152034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 673059888212579804}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc3a18c13ecb24af9b0973a3ec04fbca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetTransform: {fileID: 0}
+  leafActivatedSounds:
+  - {fileID: 8300000, guid: 29fa3d51ccee94057a4a13aee8b64a54, type: 3}
+  - {fileID: 8300000, guid: e8d13e6c6d5db4cfe8fe8b6b696b4da2, type: 3}
+  - {fileID: 8300000, guid: 2be933cfc63f64e07af838366772c46d, type: 3}
+  leafCollectedSounds:
+  - {fileID: 8300000, guid: e3226d4cf0e97480d87cd263270dada4, type: 3}
+  - {fileID: 8300000, guid: 153614209324a489ab14932b7596c18e, type: 3}
+  - {fileID: 8300000, guid: 67055fd15d3d64d05ad521824f7f1e2c, type: 3}
+  leafFailedSounds:
+  - {fileID: 8300000, guid: fa5e1d99336384bc4a608e385b116ff7, type: 3}
+  - {fileID: 8300000, guid: 78afc68e0de264e938ea0b039671670a, type: 3}
+  - {fileID: 8300000, guid: d2b053e69513e4cdf9f8510c163771e1, type: 3}
+  enemyCollisionSounds:
+  - {fileID: 8300000, guid: a3b1d66d3d5fc46d4b0d39ae61c7350d, type: 3}
+  - {fileID: 8300000, guid: 39800e50fd3314ac08f992dd9a78cf26, type: 3}
+  movementSounds:
+  - {fileID: 8300000, guid: 9b2e750a561e6479e98e34a400e10894, type: 3}
+  - {fileID: 8300000, guid: 765eb1265e0f84feab2d78d509a44910, type: 3}
+  gameOverSound: {fileID: 8300000, guid: f8dcd4b00ca26476c964b81614f78bb8, type: 3}
+  gameFinishedSound: {fileID: 8300000, guid: 14de54db30bb1448aa8817ccefcff735, type: 3}

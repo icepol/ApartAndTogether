@@ -1,0 +1,2377 @@
+fileFormatVersion: 2
+guid: 43f4ce51633e643e2a5318331bf3771d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -787984283822875189
+    second: tree_roots_0
+  - first:
+      213: 175282283999295677
+    second: tree_roots_1
+  - first:
+      213: 8334471202439101911
+    second: tree_roots_2
+  - first:
+      213: -1592137983738827611
+    second: tree_roots_3
+  - first:
+      213: 1725967839574453543
+    second: tree_roots_4
+  - first:
+      213: -1737308192370463428
+    second: tree_roots_5
+  - first:
+      213: -8112042145988510211
+    second: tree_roots_6
+  - first:
+      213: 537802677062686412
+    second: tree_roots_7
+  - first:
+      213: -7989417963420748634
+    second: tree_roots_8
+  - first:
+      213: -262786516394152923
+    second: tree_roots_9
+  - first:
+      213: -7880240849847037758
+    second: tree_roots_10
+  - first:
+      213: 133176996892490507
+    second: tree_roots_11
+  - first:
+      213: 6602628099801811199
+    second: tree_roots_12
+  - first:
+      213: 5637590800446982059
+    second: tree_roots_13
+  - first:
+      213: -6373545971855955996
+    second: tree_roots_14
+  - first:
+      213: 2321693450094340748
+    second: tree_roots_15
+  - first:
+      213: 8788489507960791670
+    second: tree_roots_16
+  - first:
+      213: -1374230998379799600
+    second: tree_roots_17
+  - first:
+      213: -8800085206590201959
+    second: tree_roots_18
+  - first:
+      213: -377881396807926078
+    second: tree_roots_19
+  - first:
+      213: 7670530957382263264
+    second: tree_roots_20
+  - first:
+      213: 3944236726044489803
+    second: tree_roots_21
+  - first:
+      213: 2253728605696383800
+    second: tree_roots_22
+  - first:
+      213: 1320802927079424001
+    second: tree_roots_23
+  - first:
+      213: 8294605142857517781
+    second: tree_roots_24
+  - first:
+      213: 1500324076695043166
+    second: tree_roots_25
+  - first:
+      213: 957165609553701096
+    second: tree_roots_26
+  - first:
+      213: 4910393691694618908
+    second: tree_roots_27
+  - first:
+      213: 4646472307739926671
+    second: tree_roots_28
+  - first:
+      213: 4653931020258633483
+    second: tree_roots_29
+  - first:
+      213: 2874166674001951251
+    second: tree_roots_30
+  - first:
+      213: 7861236865814024697
+    second: tree_roots_31
+  - first:
+      213: 6801020705753396781
+    second: tree_roots_32
+  - first:
+      213: -3232579306782221224
+    second: tree_roots_33
+  - first:
+      213: -1035529229057569448
+    second: tree_roots_34
+  - first:
+      213: -6641692456901319249
+    second: tree_roots_35
+  - first:
+      213: -4470290113821879490
+    second: tree_roots_36
+  - first:
+      213: 2653997337603842535
+    second: tree_roots_37
+  - first:
+      213: 3284209784436843406
+    second: tree_roots_38
+  - first:
+      213: -6680519292160296216
+    second: tree_roots_39
+  - first:
+      213: -4364661340048574022
+    second: tree_roots_40
+  - first:
+      213: 8280576804162120712
+    second: tree_roots_41
+  - first:
+      213: -4491389936222854206
+    second: tree_roots_42
+  - first:
+      213: 1890794075869400221
+    second: tree_roots_43
+  - first:
+      213: 1802540468105734858
+    second: tree_roots_44
+  - first:
+      213: 4429822540145690865
+    second: tree_roots_45
+  - first:
+      213: 8440910456436878889
+    second: tree_roots_46
+  - first:
+      213: -1214038752698865145
+    second: tree_roots_47
+  - first:
+      213: 1290994488765241560
+    second: tree_roots_48
+  - first:
+      213: 370208986280210311
+    second: tree_roots_49
+  - first:
+      213: -3476083629081584578
+    second: tree_roots_50
+  - first:
+      213: 3261047804410467920
+    second: tree_roots_51
+  - first:
+      213: -1133277944595175120
+    second: tree_roots_52
+  - first:
+      213: 641946791543420924
+    second: tree_roots_53
+  - first:
+      213: -4775552954138159034
+    second: tree_roots_54
+  - first:
+      213: 5558860631306822874
+    second: tree_roots_55
+  - first:
+      213: -6826370244457222317
+    second: tree_roots_56
+  - first:
+      213: 2139279425013174151
+    second: tree_roots_57
+  - first:
+      213: -8827680049283380433
+    second: tree_roots_58
+  - first:
+      213: -3619614197688291916
+    second: tree_roots_59
+  - first:
+      213: -6846522119817750166
+    second: tree_roots_60
+  - first:
+      213: 4369410560718575651
+    second: tree_roots_61
+  - first:
+      213: -7724184453005168807
+    second: tree_roots_62
+  - first:
+      213: -1029672150385478521
+    second: tree_roots_63
+  - first:
+      213: 2178679856201991320
+    second: tree_roots_64
+  - first:
+      213: -1117245501389828682
+    second: tree_roots_65
+  - first:
+      213: 3607050771043279785
+    second: tree_roots_66
+  - first:
+      213: -8662696894591593922
+    second: tree_roots_67
+  - first:
+      213: -2291481434145418612
+    second: tree_roots_68
+  - first:
+      213: -1769398969058738432
+    second: tree_roots_69
+  - first:
+      213: 9020030870295054957
+    second: tree_roots_70
+  - first:
+      213: 7437275628753072980
+    second: tree_roots_71
+  - first:
+      213: 2556250374878552309
+    second: tree_roots_72
+  - first:
+      213: 8026794330136254328
+    second: tree_roots_73
+  - first:
+      213: -7828182463037301753
+    second: tree_roots_74
+  - first:
+      213: 145563248392606998
+    second: tree_roots_75
+  - first:
+      213: -68994078628338070
+    second: tree_roots_76
+  - first:
+      213: -3370990641343398651
+    second: tree_roots_77
+  - first:
+      213: -6474179895850532143
+    second: tree_roots_78
+  - first:
+      213: -1121761497875382804
+    second: tree_roots_79
+  - first:
+      213: 6101220737010212378
+    second: tree_roots_80
+  - first:
+      213: 5006096156382735727
+    second: tree_roots_81
+  - first:
+      213: -1433231068365835705
+    second: tree_roots_82
+  - first:
+      213: -4459011438337658343
+    second: tree_roots_83
+  - first:
+      213: -6423943019368761823
+    second: tree_roots_84
+  - first:
+      213: -7744856226808092282
+    second: tree_roots_85
+  - first:
+      213: -2421213235246440383
+    second: tree_roots_86
+  - first:
+      213: 5216657435825809343
+    second: tree_roots_87
+  - first:
+      213: 2748233627195227591
+    second: tree_roots_88
+  - first:
+      213: -8492389743553209112
+    second: tree_roots_89
+  - first:
+      213: -7036166550001982154
+    second: tree_roots_90
+  - first:
+      213: 8725081537270062078
+    second: tree_roots_91
+  - first:
+      213: -8122112964148343755
+    second: tree_roots_92
+  - first:
+      213: 5314597844779118118
+    second: tree_roots_93
+  - first:
+      213: -3407887217229501810
+    second: tree_roots_94
+  - first:
+      213: -1533693366603140207
+    second: tree_roots_95
+  - first:
+      213: -1749562742922647980
+    second: tree_roots_96
+  - first:
+      213: 3766666655153215955
+    second: tree_roots_97
+  - first:
+      213: 4245110563038487264
+    second: tree_roots_98
+  - first:
+      213: 7740263064112254025
+    second: tree_roots_99
+  - first:
+      213: 7795855059271018791
+    second: tree_roots_100
+  - first:
+      213: -2974816251144067184
+    second: tree_roots_101
+  - first:
+      213: -7746838871112040644
+    second: tree_roots_102
+  - first:
+      213: -5546931585667883603
+    second: tree_roots_103
+  - first:
+      213: 6257585376007129174
+    second: tree_roots_104
+  - first:
+      213: 8427136567485318337
+    second: tree_roots_105
+  - first:
+      213: 6208596773266481915
+    second: tree_roots_106
+  - first:
+      213: 1294317963930864105
+    second: tree_roots_107
+  - first:
+      213: -7671995157692266934
+    second: tree_roots_108
+  - first:
+      213: 6845589560935340876
+    second: tree_roots_109
+  - first:
+      213: -7890324059727776111
+    second: tree_roots_110
+  - first:
+      213: -4130345969638957018
+    second: tree_roots_111
+  - first:
+      213: 7068519167424973976
+    second: tree_roots_112
+  - first:
+      213: 9056538552450916996
+    second: tree_roots_113
+  - first:
+      213: -6571265428313054849
+    second: tree_roots_114
+  - first:
+      213: -2870438692737985732
+    second: tree_roots_115
+  - first:
+      213: 7586578240399839726
+    second: tree_roots_116
+  - first:
+      213: 2279703663355937653
+    second: tree_roots_117
+  - first:
+      213: 6154383168027067425
+    second: tree_roots_118
+  - first:
+      213: -5883180413900027579
+    second: tree_roots_119
+  - first:
+      213: 1875858222743970589
+    second: tree_roots_120
+  - first:
+      213: 7599611398196740558
+    second: tree_roots_121
+  - first:
+      213: -5239437364006990500
+    second: tree_roots_122
+  - first:
+      213: 5410675596603814350
+    second: tree_roots_123
+  - first:
+      213: -2076660250075685096
+    second: tree_roots_124
+  - first:
+      213: 3004338008867662398
+    second: tree_roots_125
+  - first:
+      213: 5184403088491673635
+    second: tree_roots_126
+  - first:
+      213: -1606830771198407588
+    second: tree_roots_127
+  - first:
+      213: 6411554339895210418
+    second: tree_roots_128
+  - first:
+      213: -6947966763509666733
+    second: tree_roots_129
+  - first:
+      213: 7664479034313759945
+    second: tree_roots_130
+  - first:
+      213: -2808394609438249960
+    second: tree_roots_131
+  - first:
+      213: -4451048972269854356
+    second: tree_roots_132
+  - first:
+      213: 7327076901646735534
+    second: tree_roots_133
+  - first:
+      213: -6225276284176975351
+    second: tree_roots_134
+  - first:
+      213: 3837268332633997552
+    second: tree_roots_135
+  - first:
+      213: 7640728296152864457
+    second: tree_roots_136
+  - first:
+      213: 4495514742058508668
+    second: tree_roots_137
+  - first:
+      213: 7638322462486497931
+    second: tree_roots_138
+  - first:
+      213: -6869531663661841230
+    second: tree_roots_139
+  - first:
+      213: 1039657365975383085
+    second: tree_roots_140
+  - first:
+      213: 3294601383829911619
+    second: tree_roots_141
+  - first:
+      213: -5395761108573792926
+    second: tree_roots_142
+  - first:
+      213: 4165539626919189034
+    second: tree_roots_143
+  - first:
+      213: 7957107487846843071
+    second: tree_roots_144
+  - first:
+      213: -3121597458327837063
+    second: tree_roots_145
+  - first:
+      213: -5123605134948738531
+    second: tree_roots_146
+  - first:
+      213: -3221672272210395684
+    second: tree_roots_147
+  - first:
+      213: -103575442417847522
+    second: tree_roots_148
+  - first:
+      213: -3209991597714125467
+    second: tree_roots_149
+  - first:
+      213: 6236251232473032157
+    second: tree_roots_150
+  - first:
+      213: -538120501327131761
+    second: tree_roots_151
+  - first:
+      213: -1251349569169117642
+    second: tree_roots_152
+  - first:
+      213: 8972261534521593014
+    second: tree_roots_153
+  - first:
+      213: -9096098862555024460
+    second: tree_roots_154
+  - first:
+      213: -358873605229676035
+    second: tree_roots_155
+  - first:
+      213: 8347312304287990597
+    second: tree_roots_156
+  - first:
+      213: 3751777335548303371
+    second: tree_roots_157
+  - first:
+      213: 8510063326879748360
+    second: tree_roots_158
+  - first:
+      213: -1279023934309653234
+    second: tree_roots_159
+  - first:
+      213: -2006807782363447055
+    second: tree_roots_160
+  - first:
+      213: -4802737207515382666
+    second: tree_roots_161
+  - first:
+      213: -1644744618983228553
+    second: tree_roots_162
+  - first:
+      213: -8449684109585036662
+    second: tree_roots_163
+  - first:
+      213: 1380681404084573471
+    second: tree_roots_164
+  - first:
+      213: 3035588646649943535
+    second: tree_roots_165
+  - first:
+      213: -6808050665113824626
+    second: tree_roots_166
+  - first:
+      213: 1440099322069376442
+    second: tree_roots_167
+  - first:
+      213: -4397518090926736747
+    second: tree_roots_168
+  - first:
+      213: 6319606192587965695
+    second: tree_roots_169
+  - first:
+      213: -3807864664354312948
+    second: tree_roots_170
+  - first:
+      213: -414044350283319929
+    second: tree_roots_171
+  - first:
+      213: 2419192222729682778
+    second: tree_roots_172
+  - first:
+      213: -5548758065491708262
+    second: tree_roots_173
+  - first:
+      213: 6842836545809331000
+    second: tree_roots_174
+  - first:
+      213: -5141422106116620623
+    second: tree_roots_175
+  - first:
+      213: -7239647313463586566
+    second: tree_roots_176
+  - first:
+      213: 1460026476239598861
+    second: tree_roots_177
+  - first:
+      213: -819144287868252812
+    second: tree_roots_178
+  - first:
+      213: -3316118335242353638
+    second: tree_roots_179
+  - first:
+      213: 985965898274996479
+    second: tree_roots_180
+  - first:
+      213: 4165125544899608220
+    second: tree_roots_181
+  - first:
+      213: -168463734002227447
+    second: tree_roots_182
+  - first:
+      213: 684835275366391613
+    second: tree_roots_183
+  - first:
+      213: -6059960334418576558
+    second: tree_roots_184
+  - first:
+      213: 3426038320143803
+    second: tree_roots_185
+  - first:
+      213: -1914926365797422899
+    second: tree_roots_186
+  - first:
+      213: -755235245268503863
+    second: tree_roots_187
+  - first:
+      213: 3518455878715689569
+    second: tree_roots_188
+  - first:
+      213: -6354506354716096399
+    second: tree_roots_189
+  - first:
+      213: 2473186272212209001
+    second: tree_roots_190
+  - first:
+      213: -7709173230482208518
+    second: tree_roots_191
+  - first:
+      213: -2123013852705966760
+    second: tree_roots_192
+  - first:
+      213: 5753515074950100673
+    second: tree_roots_193
+  - first:
+      213: -1512943591516732942
+    second: tree_roots_194
+  - first:
+      213: 7094320627175754946
+    second: tree_roots_195
+  - first:
+      213: -4463694721959089789
+    second: tree_roots_196
+  - first:
+      213: -5083804451495020476
+    second: tree_roots_197
+  - first:
+      213: -6311856893484276285
+    second: tree_roots_198
+  - first:
+      213: 6092979343760103611
+    second: tree_roots_199
+  - first:
+      213: -9186291254705898776
+    second: tree_roots_200
+  - first:
+      213: -2969487529071494435
+    second: tree_roots_201
+  - first:
+      213: -5929174934483334478
+    second: tree_roots_202
+  - first:
+      213: 7850555920406791060
+    second: tree_roots_203
+  - first:
+      213: 6787132156823145557
+    second: tree_roots_204
+  - first:
+      213: 4774316950839164556
+    second: tree_roots_205
+  - first:
+      213: 8626893820758743678
+    second: tree_roots_206
+  - first:
+      213: -7759830287099650355
+    second: tree_roots_207
+  - first:
+      213: 5338356847663039588
+    second: tree_roots_208
+  - first:
+      213: -4449858816833236336
+    second: tree_roots_209
+  - first:
+      213: 5959106814854108074
+    second: tree_roots_210
+  - first:
+      213: 8650160917859453848
+    second: tree_roots_211
+  - first:
+      213: -4549787430175531460
+    second: tree_roots_212
+  - first:
+      213: 5681374807458467983
+    second: tree_roots_213
+  - first:
+      213: -7833798767444873342
+    second: tree_roots_214
+  - first:
+      213: -8117656268149283839
+    second: tree_roots_215
+  - first:
+      213: 1318335848840659642
+    second: tree_roots_216
+  - first:
+      213: -7777795297123150323
+    second: tree_roots_217
+  - first:
+      213: -7704584167493450076
+    second: tree_roots_218
+  - first:
+      213: -8374333826079838576
+    second: tree_roots_219
+  - first:
+      213: 118927578476721654
+    second: tree_roots_220
+  - first:
+      213: 2200691108736486716
+    second: tree_roots_221
+  - first:
+      213: 107723926075983269
+    second: tree_roots_222
+  - first:
+      213: -7052859475827442138
+    second: tree_roots_223
+  - first:
+      213: 7813370006188245824
+    second: tree_roots_224
+  - first:
+      213: 1291278338331477029
+    second: tree_roots_225
+  - first:
+      213: -3143765995585153258
+    second: tree_roots_226
+  - first:
+      213: -6859870627583974987
+    second: tree_roots_227
+  - first:
+      213: 6566023706418073278
+    second: tree_roots_228
+  - first:
+      213: -1493227683115765868
+    second: tree_roots_229
+  - first:
+      213: 4916913471182355023
+    second: tree_roots_230
+  - first:
+      213: 4369063246111225261
+    second: tree_roots_231
+  - first:
+      213: -8931648413096519624
+    second: tree_roots_232
+  - first:
+      213: 3038002609099287425
+    second: tree_roots_233
+  - first:
+      213: 1202883829452872355
+    second: tree_roots_234
+  - first:
+      213: 3257701357835198982
+    second: tree_roots_235
+  - first:
+      213: -681644952253851829
+    second: tree_roots_236
+  - first:
+      213: -6669530548150163795
+    second: tree_roots_237
+  - first:
+      213: 861447732815216432
+    second: tree_roots_238
+  - first:
+      213: -199847011124255413
+    second: tree_roots_239
+  - first:
+      213: 5244775083182780604
+    second: tree_roots_240
+  - first:
+      213: -5877009800219413782
+    second: tree_roots_241
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tree_roots_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1025
+        height: 3024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ae0e163b6e64f3e8157aed813d2216
+      internalID: -1786358954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2990
+        width: 1012
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21fc55dd27aa4cf0b27b86cc7dcde68
+      internalID: -120875682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2994
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bee0e81997de4bb0a9f937ae04cf630
+      internalID: -1306812912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2996
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd68bda63bbf34afb96408a811b81480
+      internalID: -550544918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2995
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f4384f7d245408f93d0f7dc61272ea
+      internalID: -138672222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2994
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d4fa67d8d3e4c7db93ade752077769
+      internalID: -1372475556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2999
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9aa80675e1ea44949136241f03ef862
+      internalID: -702869087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2989
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f02d4c751b32475b980592bff4d7ee6
+      internalID: -1798037899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3000
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6751886c518648ea8d8230c78594d82
+      internalID: 1384035247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2990
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc7652673b9047fa824c280031f8d5a
+      internalID: 1096629180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 3005
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b35a0f6ba7f44cfb684624a6d11d8b
+      internalID: -525721645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2992
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a398dd71e67b4c5e8c113d98c38bbb2
+      internalID: -1470176284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2993
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a63de05d89c64470b1c316b639639bb
+      internalID: -687527543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_13
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 3003
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6854324d363b841ef8379cc4e337c45f
+      internalID: 1204936752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3014
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0020e279a8aa44821986376dac3b5a20
+      internalID: -669644227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_15
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2999
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa2292b5623a495dac12acc95804585
+      internalID: 1753051548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_16
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 3003
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32673cf3ecb72423083e25a3beb5f324
+      internalID: 1438041114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_17
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2991
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc5df66605c846609c0c9232422ee46
+      internalID: -1831577256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_18
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2984
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5da583d8cd7a43e0863ee6ce688c735
+      internalID: 1844773053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_19
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 3000
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1a63c6db851483d968e99d3dbb4832
+      internalID: 1807911923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_20
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2996
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b72c088af44460093cab33408f20f8
+      internalID: -1376545694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_21
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2989
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8249ac3070f47c494b48f0a97d9ab0
+      internalID: -623346510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_22
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2984
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea990b1f49484371aee874a4d352893
+      internalID: 700583196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3009
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae20aa24072564061aeb058dbd3131af
+      internalID: 2122560276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_24
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 3002
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e81f7fc237147cb9cbfa38ef633cf9
+      internalID: -2085979309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_25
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2995
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfa8bf988d974d89bb33733fdab5b2f
+      internalID: 2131452756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_26
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 3012
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c0b206814ea4d0c884331d5e70164a
+      internalID: -49503691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_27
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2983
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de23ce0d7e5974b39a33e334f3f3c15f
+      internalID: -1512059508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_28
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2999
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9eb94f385004159bb2537bf60ae043
+      internalID: 1365936738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_29
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 3002
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62986fe50eed43dd92201a8128f9f2b
+      internalID: 1105402486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_30
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2989
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5275ed8e2134441b99fe04247f94322
+      internalID: 445083587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_31
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 3006
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb98647fa6184550a14c47fc92cbef4
+      internalID: 637946457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_32
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 3000
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65393090001d94a61a504991ee3b561d
+      internalID: 390185301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_33
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 3014
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ff1e4a862704479b1f522f9f9f22ef
+      internalID: -1908502923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_34
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 3011
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61705750d63e34d7ebf847f079b13c61
+      internalID: -1632161854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_35
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 3014
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f9ffb70ed694c6e8d5b259e6c3a526
+      internalID: -1598714091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_36
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2984
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e2f312c41a94512853d479a206ec88
+      internalID: 6492698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_37
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2994
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3ab1e646b4649a89589e6a8fb36abd
+      internalID: -101931810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_38
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 3002
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee8fbdb95c194b0bb370a151d3e0dd3
+      internalID: -1816511735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_39
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2992
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9b3029e2b994835ad772acdc4fb418
+      internalID: -442498853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_40
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2989
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22a0e5bb1edd44c190ee28d0eede128
+      internalID: -706598910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_41
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 3003
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2bdeb4e294c4fc28630eedde95c823
+      internalID: -715990461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_42
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 2989
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b496e163004d846a0bdc403950f86acc
+      internalID: -1059915246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_43
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 3017
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44945a8e422a44fb95ebbc98dd20550
+      internalID: -346562286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_44
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 3012
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df112f887cce491d831c2b13a870f5f
+      internalID: 517224152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_45
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 3011
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb347e93416b41799de1485201c59b5
+      internalID: -238342448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_46
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 2996
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de08c34b9b494e4ead765315e155cf8
+      internalID: 1332371282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_47
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 2998
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc03bb61e805498cb9888e308bc7d9c
+      internalID: -228650148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_48
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 2992
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e004597369cd84b938a0480e3545186c
+      internalID: -1063279084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_49
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 3011
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd0017fa8a9f4cedb154905c7199cb0
+      internalID: -1059947060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_50
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 2984
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b95cbcf7c5c4a58a873e485a4230bd
+      internalID: -1646242382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_51
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 3012
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eca0126985cb4245b46ffcb018a5cd9
+      internalID: -853602296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_52
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 3002
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e29947d875c49dc96ed7c0a9db4cec
+      internalID: 1520603906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_53
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 3006
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd6e006260dc4c189424e903c659588
+      internalID: -315763316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_54
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2994
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23c773259fd140a398ba6b3874054c7
+      internalID: 2020974283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_55
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 3008
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a9420909c7442e5a470508d76f5ec1
+      internalID: 1558457256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_56
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 2994
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f3dd011314345598fb47856382fc4a
+      internalID: 811189835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_57
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 2989
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc2296d48e624ea78330776a666f68e
+      internalID: -1187581604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_58
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 3009
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b19d863fc274415af83884012b1dba
+      internalID: -2105387313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_59
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 3005
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169d54bbe254d45acbe315baba360376
+      internalID: -994941004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_60
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2993
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed755b07c00746e5859dcbe6212d690
+      internalID: 835954309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_61
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 3009
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7533eb3fa05454112ab16823efd83aa2
+      internalID: 355168381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_62
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2995
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4486b33a7281f4df6b589d482486bfb0
+      internalID: -189548081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_63
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2999
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895faeb54f9314c179889a68855f8e26
+      internalID: 250154775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_roots_64
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 3009
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e55d1cb3a064a75978025e76976b47
+      internalID: -140667254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9983da7d20a2f43d99f4bf328fcff837
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tree_roots_0: -1786358954
+      tree_roots_1: -120875682
+      tree_roots_10: -525721645
+      tree_roots_11: -1470176284
+      tree_roots_12: -687527543
+      tree_roots_13: 1204936752
+      tree_roots_14: -669644227
+      tree_roots_15: 1753051548
+      tree_roots_16: 1438041114
+      tree_roots_17: -1831577256
+      tree_roots_18: 1844773053
+      tree_roots_19: 1807911923
+      tree_roots_2: -1306812912
+      tree_roots_20: -1376545694
+      tree_roots_21: -623346510
+      tree_roots_22: 700583196
+      tree_roots_23: 2122560276
+      tree_roots_24: -2085979309
+      tree_roots_25: 2131452756
+      tree_roots_26: -49503691
+      tree_roots_27: -1512059508
+      tree_roots_28: 1365936738
+      tree_roots_29: 1105402486
+      tree_roots_3: -550544918
+      tree_roots_30: 445083587
+      tree_roots_31: 637946457
+      tree_roots_32: 390185301
+      tree_roots_33: -1908502923
+      tree_roots_34: -1632161854
+      tree_roots_35: -1598714091
+      tree_roots_36: 6492698
+      tree_roots_37: -101931810
+      tree_roots_38: -1816511735
+      tree_roots_39: -442498853
+      tree_roots_4: -138672222
+      tree_roots_40: -706598910
+      tree_roots_41: -715990461
+      tree_roots_42: -1059915246
+      tree_roots_43: -346562286
+      tree_roots_44: 517224152
+      tree_roots_45: -238342448
+      tree_roots_46: 1332371282
+      tree_roots_47: -228650148
+      tree_roots_48: -1063279084
+      tree_roots_49: -1059947060
+      tree_roots_5: -1372475556
+      tree_roots_50: -1646242382
+      tree_roots_51: -853602296
+      tree_roots_52: 1520603906
+      tree_roots_53: -315763316
+      tree_roots_54: 2020974283
+      tree_roots_55: 1558457256
+      tree_roots_56: 811189835
+      tree_roots_57: -1187581604
+      tree_roots_58: -2105387313
+      tree_roots_59: -994941004
+      tree_roots_6: -702869087
+      tree_roots_60: 835954309
+      tree_roots_61: 355168381
+      tree_roots_62: -189548081
+      tree_roots_63: 250154775
+      tree_roots_64: -140667254
+      tree_roots_7: -1798037899
+      tree_roots_8: 1384035247
+      tree_roots_9: 1096629180
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
